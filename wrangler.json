@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "be753ceb-983c-4466-a6f7-6ef412fd0a84",
+			"database_name": "byt58"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
